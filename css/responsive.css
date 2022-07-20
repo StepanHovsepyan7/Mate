@@ -1,0 +1,729 @@
+@media only screen and (max-width: 1607px ){
+    nav ul li a {
+        padding: 5%;
+        margin: 0 5px;    
+    }
+    .headerh1 {
+        font-size: 35px;
+        left: 30%;
+        bottom: 82%;
+    }
+    .headerP {
+        left: 38%;
+        bottom: 77%;
+    }
+    #downland {
+        left: 47%;
+        bottom: 70%;
+    }
+    .gic {
+        margin-left: 50%;
+        transform: translate(-50%);
+    }
+    .gic3 {
+        margin-left: 50%;
+    }
+    .poqrdiver > p {
+        font-size: 15px;
+        margin-left: 51px;
+    }
+    .smalldivs {
+        bottom: 35%;
+        left: 10%;
+    }
+    .smalldivs2 {
+        bottom: 6%;
+        left: 10%;
+    }
+    .smalldivs3 {
+        text-align: start;
+        position: absolute;
+        bottom: 35%;
+        left: 75%;
+    }
+    .smalldivs4 {
+        bottom: 6%;
+        left: 75%;
+    }
+    .feutersH1 {
+        left: 40%;
+        top: 14%;
+        font-size: 35px;
+    }
+    .feutersP {
+        bottom: 130px;
+        top: 30%;
+        left: 32%;
+        font-size: 15px;
+    }
+    .gic2 {
+        top: 25%;
+        margin-left: 50%;
+    }
+    .videoicon {
+        right: 50%;
+        top: 93%;
+    }
+    .nkarport {
+        height: 217px;
+        width: 290px;
+    }
+    .pricingdivss {
+        width: 300px;
+        margin-top: 5%;
+        margin-left: 3%;
+        
+    }
+    .greydiv {
+        width: 100%;
+    }
+    .pricingGIC {
+        height: 1px;
+        width: 298px;
+        margin-top: 40px;
+    }
+    .bell {
+        left: 2%;
+    }
+    .project {
+        left: 30%;
+    }
+    .person {
+        left:60%;
+    }
+    .heartt {
+        left: 85%;
+    }
+    .gic5 {
+        margin-left: 50%;
+    }
+    .teamimgs2 {
+        margin-left: 30px;
+        width: 210px;
+        height: 344px;
+    }
+    .teamimgs2 > img {
+        height: 241px;
+        width: 209px;
+    }
+    .people1 > p {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .people2 > p {
+        font-size: 13px;
+        margin-left: 6px;
+        margin-top: 10px;
+    }
+    .people1 {
+        position: absolute;
+        bottom: 32%;
+        left: 18%;
+    }
+    .people2 {
+        left: 55%;
+    }
+    .footerENDD {
+        margin-left: 3%;
+        font-size: 10px;
+    }
+    .footerinput {
+        margin-left: 57%;
+    }
+    .footerContact{
+        margin-left: 10%;
+    }
+    .inpu {
+        width: 550px;
+    }
+    .inp{
+        width: 550px;
+    }
+}
+
+@media only screen and (max-width: 1283px){
+    nav ul li a {
+        padding: 5%;
+        margin: 0 5px;    
+    }
+    .headerh1 {
+        font-size: 35px;
+        left: 20%;
+        bottom: 82%;
+    }
+    .headerP {
+        left: 30%;
+        bottom: 77%;
+    }
+    #downland {
+        left: 42%;
+        bottom: 70%;
+    }
+    .gic {
+        margin-left: 50%;
+        transform: translate(-50%);
+    }
+    .gic3 {
+        margin-left: 512px;
+    }
+    .poqrdiver > p {
+        font-size: 15px;
+        margin-left: 51px;
+    }
+    .smalldivs {
+        bottom: 35%;
+    }
+    .smalldivs2 {
+        bottom: 5%;
+    }
+    .smalldivs3 {
+        text-align: start;
+        position: absolute;
+        bottom: 35%;
+        left: 68%;
+    }
+    .smalldivs4 {
+        bottom: 5%;
+        left: 68%;
+    }
+    .feutersH1 {
+        left: 40%;
+        top: 14%;
+        font-size: 23px;
+    }
+    .feutersP {
+        bottom: 130px;
+        top: 30%;
+        left: 28%;
+        font-size: 13px;
+    }
+    .gic2 {
+        top: 25%;
+        margin-left: 50%;
+    }
+    .videoicon {
+        right: 50%;
+        top: 93%;
+    }
+    .nkarport {
+        height: 217px;
+        width: 290px;
+    }
+    .pricingdivss {
+        width: 50%;
+    }
+    .greydiv {
+        width: 100%;
+    }
+    .pricingGIC {
+        height: 1px;
+        width: 300px;
+        margin-top: 40px;
+    }
+    .bell {
+        left: 2%;
+    }
+    .project {
+        left: 30%;
+    }
+    .person {
+        left:60%;
+    }
+    .heartt {
+        left: 85%;
+    }
+    .gic5 {
+        margin-left: 50%;
+    }
+    .teamimgs2 {
+        margin-left: 30px;
+        width: 210px;
+        height: 344px;
+    }
+    .teamimgs2 > img {
+        height: 241px;
+        width: 209px;
+    }
+    .people1 > p {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .people2 > p {
+        font-size: 13px;
+        margin-left: 6px;
+        margin-top: 10px;
+    }
+    .people1 {
+        position: absolute;
+        bottom: 32%;
+        left: 1%;
+    }
+    .people2 {
+        left: 50%;
+    }
+    .footerENDD {
+        margin-left: 3%;
+        font-size: 10px;
+    }
+    .inpu {
+        width: 308px;
+    }
+    .footerinput {
+        margin-left: 57%;
+    }
+    .footerContact{
+        margin-left: 10%;
+    }
+    .inpu {
+        width: 395px;
+    }
+    .inp{
+        width: 395px;
+    }
+    .poqrdiver > h4 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 21px;
+        margin-bottom: 20px;
+    }
+}
+
+
+@media only screen and (max-width: 1390px) {
+    nav ul li a {
+        padding: 5%;
+        margin: 0 5px;    
+    }
+    .headerh1 {
+        font-size: 35px;
+        left: 30%;
+        bottom: 82%;
+    }
+    .headerP {
+        left: 38%;
+        bottom: 77%;
+    }
+    #downland {
+        left: 47%;
+        bottom: 70%;
+    }
+    .gic {
+        margin-left: 50%;
+        transform: translate(-50%);
+    }
+    .gic3 {
+        margin-left: 50%;
+    }
+    .poqrdiver > p {
+        font-size: 15px;
+        margin-left: 51px;
+    }
+    .smalldivs {
+        bottom: 35%;
+        left: 9%;
+    }
+    .smalldivs2 {
+        bottom: 6%;
+        left: 9%;
+    }
+    .smalldivs3 {
+        bottom: 35%;
+        left:70%;
+    }
+    .smalldivs4 {
+        bottom: 6%;
+        left: 70%;
+    }
+    .feutersH1 {
+        left: 40%;
+        top: 14%;
+        font-size: 35px;
+    }
+    .feutersP {
+        bottom: 130px;
+        top: 30%;
+        left: 30%;
+        font-size: 15px;
+    }
+    .gic2 {
+        top: 27%;
+        margin-left: 50%;
+    }
+    .videoicon {
+        right: 50%;
+        top: 93%;
+    }
+    .nkarport {
+        height: 217px;
+        width: 290px;
+    }
+    .pricingdivss {
+        width: 300px;
+        margin-top: 5%;
+        margin-left: 3%;
+        
+    }
+    .greydiv {
+        width: 100%;
+    }
+    .pricingGIC {
+        height: 1px;
+        width: 298px;
+        margin-top: 40px;
+    }
+    .bell {
+        left: 2%;
+    }
+    .project {
+        left: 30%;
+    }
+    .person {
+        left:60%;
+    }
+    .heartt {
+        left: 85%;
+    }
+    .gic5 {
+        margin-left: 50%;
+    }
+    .teamimgs2 {
+        margin-left: 30px;
+        width: 210px;
+        height: 344px;
+    }
+    .teamimgs2 > img {
+        height: 241px;
+        width: 209px;
+    }
+    .people1 > p {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .people2 > p {
+        font-size: 13px;
+        margin-left: 6px;
+        margin-top: 10px;
+    }
+    .people1 {
+        position: absolute;
+        bottom: 32%;
+        left: 1%;
+    }
+    .people2 {
+        left: 50%;
+    }
+    .footerENDD {
+        margin-left: 3%;
+        font-size: 10px;
+    }
+    .inpu {
+        width: 308px;
+    }
+    .footerinput {
+        margin-left: 57%;
+    }
+    .footerContact{
+        margin-left: 10%;
+    }
+    .inpu {
+        width: 395px;
+    }
+    .inp{
+        width: 395px;
+    }
+    
+  }
+
+
+
+
+
+
+
+
+  @media only screen and (max-width: 1014px) {
+    nav ul li a {
+        padding: 5%;
+        margin: 0 5px;    
+    }
+    .headerh1 {
+        font-size: 35px;
+        left: 20%;
+        bottom: 82%;
+    }
+    .headerP {
+        left: 30%;
+        bottom: 77%;
+    }
+    #downland {
+        left: 42%;
+        bottom: 70%;
+    }
+    .gic {
+        margin-left: 50%;
+        transform: translate(-50%);
+    }
+    .gic3 {
+        margin-left: 50%;
+    }
+    .poqrdiver > p {
+        font-size: 15px;
+        margin-left: 51px;
+    }
+    .smalldivs {
+        bottom: 35%;
+    }
+    .smalldivs2 {
+        bottom: 5%;
+    }
+    .smalldivs3 {
+        text-align: start;
+        position: absolute;
+        bottom: 35%;
+        left: 68%;
+    }
+    .smalldivs4 {
+        bottom: 5%;
+        left: 68%;
+    }
+    .feutersH1 {
+        left: 40%;
+        top: 14%;
+        font-size: 23px;
+    }
+    .feutersP {
+        bottom: 130px;
+        top: 30%;
+        left: 28%;
+        font-size: 13px;
+    }
+    .gic2 {
+        top: 25%;
+        margin-left: 50%;
+    }
+    .videoicon {
+        right: 50%;
+        top: 93%;
+    }
+    .nkarport {
+        height: 217px;
+        width: 290px;
+    }
+    .pricingdivss {
+        width: 50%;
+    }
+    .greydiv {
+        width: 100%;
+    }
+    .pricingGIC {
+        height: 1px;
+        width: 300px;
+        margin-top: 40px;
+    }
+    .bell {
+        left: 2%;
+    }
+    .project {
+        left: 30%;
+    }
+    .person {
+        left:60%;
+    }
+    .heartt {
+        left: 85%;
+    }
+    .gic5 {
+        margin-left: 50%;
+    }
+    .teamimgs2 {
+        margin-left: 30px;
+        width: 210px;
+        height: 344px;
+    }
+    .teamimgs2 > img {
+        height: 241px;
+        width: 209px;
+    }
+    .people1 > p {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .people2 > p {
+        font-size: 13px;
+        margin-left: 6px;
+        margin-top: 10px;
+    }
+    .people1 {
+        position: absolute;
+        bottom: 32%;
+        left: 1%;
+    }
+    .people2 {
+        left: 50%;
+    }
+    .footerENDD {
+        margin-left: 3%;
+        font-size: 10px;
+    }
+    .inpu {
+        width: 308px;
+    }
+    .footerinput {
+        margin-left: 57%;
+    }
+    .footerContact{
+        margin-left: 10%;
+    }
+    .inpu {
+        width: 395px;
+    }
+    .inp{
+        width: 395px;
+    }
+}
+
+
+@media only screen and (max-width: 984px) {
+    nav ul li a {
+        padding: 5%;
+        margin: 0 5px;    
+    }
+    .headerh1 {
+        font-size: 25px;
+        left: 20%;
+        bottom: 82%;
+    }
+    .headerP {
+        bottom: 77%;
+        font-size: 15px;
+        left: 23%;
+    }
+    #downland {
+        left: 39%;
+        bottom: 72%;
+    }
+    .gic {
+        margin-left: 50%;
+        transform: translate(-50%);
+    }
+    .gic3 {
+        margin-left: 50%;
+    }
+    .poqrdiver > p {
+        font-size: 15px;
+        margin-left: 51px;
+    }
+    .poqrdiver > h4 {
+        font-size: 15px;
+        margin-left: 51px;
+    }
+    .smalldivs {
+        bottom: 35%;
+    }
+    .smalldivs2 {
+        bottom: 5%;
+    }
+    .smalldivs3 {
+        text-align: start;
+        position: absolute;
+        bottom: 35%;
+        left: 68%;
+    }
+    .smalldivs4 {
+        bottom: 5%;
+        left: 68%;
+    }
+    .feutersH1 {
+        left: 40%;
+        top: 14%;
+        font-size: 23px;
+    }
+    .feutersP {
+        bottom: 130px;
+        top: 30%;
+        left: 28%;
+        font-size: 13px;
+    }
+    .gic2 {
+        top: 25%;
+        margin-left: 50%;
+    }
+    .videoicon {
+        right: 50%;
+        top: 93%;
+    }
+    .nkarport {
+        height: 217px;
+        width: 290px;
+    }
+    .pricingdivss {
+        width: 50%;
+    }
+    .greydiv {
+        width: 100%;
+    }
+    .pricingGIC {
+        height: 1px;
+        width: 300px;
+        margin-top: 40px;
+    }
+    .bell {
+        left: 2%;
+    }
+    .project {
+        left: 30%;
+    }
+    .person {
+        left:60%;
+    }
+    .heartt {
+        left: 85%;
+    }
+    .gic5 {
+        margin-left: 50%;
+    }
+    .teamimgs2 {
+        margin-left: 30px;
+        width: 210px;
+        height: 344px;
+    }
+    .teamimgs2 > img {
+        height: 241px;
+        width: 209px;
+    }
+    .people1 > p {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .people2 > p {
+        font-size: 13px;
+        margin-left: 6px;
+        margin-top: 10px;
+    }
+    .people1 {
+        position: absolute;
+        bottom: 32%;
+        left: 1%;
+    }
+    .people2 {
+        left: 50%;
+    }
+    .footerENDD {
+        margin-left: 3%;
+        font-size: 10px;
+    }
+    .inpu {
+        width: 308px;
+    }
+    .footerinput {
+        margin-left: 57%;
+    }
+    .footerContact{
+        margin-left: 10%;
+    }
+    .inpu {
+        width: 395px;
+    }
+    .inp{
+        width: 395px;
+    }
+}
